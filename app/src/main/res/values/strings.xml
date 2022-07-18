@@ -1,0 +1,16 @@
+<resources>
+    <string name="edittext_hint_nombre">Nombre</string>
+    <string name="edittext_hint_apellido">Apellido</string>
+    <string name="edittext_hint_base">Base</string>
+    <string name="edittext_hint_exponente">Exponente</string>
+    <string name="edittext_hint_potencia">Potencia</string>
+    <string name="edittext_hint_factorial">Factorial</string>
+    <string name="button_text_mostrarresultados">Mostrar resultados</string>
+    <string name="button_text_siguiente">Siguiente</string>
+    <string name="button_text_cerrar">Cerrar</string>
+    <string name="edittext_hint_numero">Numero</string>
+    <string name="edittext_hint_usuario">usuario</string>
+    <string name="edittext_hint_contrasena">contrasena</string>
+    <string name="button_text_ingresar">ingresar</string>
+    <string name="button_text_registrar">Registrarse</string>
+</resources>
